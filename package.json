@@ -1,0 +1,20 @@
+{
+  "name": "learn-webpack-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablostellet/learn-webpack.git"
+  },
+  "keywords": [],
+  "author": "Pablo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablostellet/learn-webpack/issues"
+  },
+  "homepage": "https://github.com/pablostellet/learn-webpack#readme"
+}
