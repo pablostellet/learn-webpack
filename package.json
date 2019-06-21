@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/pablostellet/learn-webpack#readme",
   "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
     "css-loader": "^3.0.0",
     "node-sass": "^4.12.0",
     "sass-loader": "^7.1.0",
